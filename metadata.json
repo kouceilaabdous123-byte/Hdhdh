@@ -1,0 +1,6 @@
+{
+  "name": "DiagPhone",
+  "description": "Application complète de diagnostic et tests matériel pour smartphone : écran, multitouche, caméra, torche, batterie, boutons, audio, capteurs et multitâche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
